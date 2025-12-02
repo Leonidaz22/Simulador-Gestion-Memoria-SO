@@ -3,16 +3,16 @@
 Este proyecto consiste en un simulador de gestor de memoria para Sistemas Operativos, implementando técnicas de paginación, memoria virtual (Swapping) y traducción de direcciones.
 
 ## Integrantes del Equipo
-* Teran Ramirez Leonardo Alonso 
-* Rocha Coronado Carlos Julian 
-* Arguelles Obregon Rene
+* Terán Ramírez Leonardo Alonso
+* Rocha Coronado Carlos Julián
+* Argüelles Obregón René
 
 ## Instrucciones de Compilación y Ejecución
 El simulador está desarrollado en **Python 3**, por lo que no requiere compilación previa, solo interpretación.
 
 ### Requisitos previos
 * Tener instalado **Python 3.x**.
-* Asegurarse de que el archivo `config.ini` se encuentre en la misma carpeta que el código fuente.
+* Asegúrese de que el archivo `config.ini` se encuentre en la misma carpeta que el código fuente.
 
 ### Pasos para ejecutar
 1. Abra una terminal o línea de comandos.
