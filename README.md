@@ -20,7 +20,10 @@ El simulador está desarrollado en **Python 3**, por lo que no requiere compilac
    ```bash
    cd src
 3. Ejecute el script principal:
+bash
 python proyecto_memoria.py
+
+
 
 ### Explicacion del diseño y Estructura de Datos
 * Para el desarrollo del simulador se eligieron estructuras nativas de Python por su eficiencia y facilidad de implementación:
@@ -41,13 +44,3 @@ python proyecto_memoria.py
 * Cuando ocurre un fallo de página y no hay marcos libres, se selecciona el marco que está al frente de la cola (el más antiguo) como "víctima".
 * Esta víctima se mueve al área de Swap para liberar espacio para la nueva página.
 * Flexibilidad: El diseño permite cambiar la configuración a algoritmos LRU o CLOCK editando el archivo config.ini.
-
-
-
-
-
-
-
-
-
-
