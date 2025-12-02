@@ -20,7 +20,6 @@ El simulador está desarrollado en **Python 3**, por lo que no requiere compilac
    ```bash
    cd src
 3. Ejecute el script principal:
-bash
 python proyecto_memoria.py
 
 
